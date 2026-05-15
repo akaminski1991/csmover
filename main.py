@@ -1,3 +1,4 @@
+# Wersja zmodyfikowana na SERWERZE
 import math
 
 pi = math.pi
