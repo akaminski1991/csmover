@@ -1,0 +1,21 @@
+# Ignoruj katalogi cache Pythona
+
+__pycache__/
+*.pyc
+
+# Ignoruj pliki wykonywalne i biblioteki (Windows)
+
+*.exe
+*.dll
+*.obj
+*.o
+
+# Ignoruj pliki tymczasowe logów
+
+*.log
+
+# Ignoruj katalogi środowisk wirtualnych
+
+venv/
+env/
+.venv/
