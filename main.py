@@ -1,4 +1,8 @@
+HEAD
 # Wersja zmodyfikowana LOKALNIE
+
+# Wersja zmodyfikowana na SERWERZE
+2d9d933f88094a3d7b4bb3c39afbe07c3d4e8638
 import math
 
 pi = math.pi
